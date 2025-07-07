@@ -1,2 +1,1 @@
-Your changes  
-Incoming changes from the other branch
+Working on CSS Typography and studying Flexbox Layout.
