@@ -5,15 +5,22 @@ padding: 10%;
 font-size: 2rem;
 font-family: 'Roboto', sans-serif;
 }
+
+main{
+    opacity: 1;
+}
 a {
     text-decoration:none;
     cursor: pointer;
     color: blue;
 }
-a.visited {
+a:visited {
     color: purple;
 } 
 
-a:hover{
+a:hover, a:focus{
     color: dodgerblue;
+}
+a:active{
+    color: red;
 }
